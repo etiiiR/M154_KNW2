@@ -1,5 +1,0 @@
-#Tomcat publish data
-#Thu Jun 14 09:01:02 CEST 2018
-org.eclipse.jst.j2ee.server\:Giniality-Education-WebApp-Framework=WEB-INF/lib/Giniality-Education-WebApp-Framework.jar
-org.eclipse.jst.j2ee.server\:crm_persistence=WEB-INF/lib/crm_persistence.jar
-org.eclipse.jst.j2ee.server\:crm_business=WEB-INF/lib/crm_business.jar
