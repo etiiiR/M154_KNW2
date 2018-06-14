@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;giniality_web-app-framework_hello-world-app&apos; to &apos;web-app-framework_hello-world-app&apos;" description="Rename resource &apos;giniality_web-app-framework_hello-world-app&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/giniality_web-app-framework_hello-world-app" name="web-app-framework_hello-world-app" stamp="1523786320863" updateReferences="true"/>
+</session>

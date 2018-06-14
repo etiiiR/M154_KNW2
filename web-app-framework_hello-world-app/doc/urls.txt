@@ -1,0 +1,16 @@
+// Context
+<Context path="/gini-waf-sample" reloadable="true" docBase="$HOME\giniality_web-app-framework_hello-world-app" workDir="$HOME\giniality_web-app-framework__hello-world-app\work" />
+
+// Urls
+
+// Start application
+http://localhost:8080/gini-waf-sample
+
+// Static html page instead of index.html
+http://localhost:8080/gini-waf-sample/html/get-greeting.html
+
+// Start servlet without specifying service and view
+http://localhost:8080/gini-waf-sample/helloworld
+
+// Start servlet specifying service and view
+http://localhost:8080/gini-waf-sample/helloworld?service=HelloTextService&view=HelloTextView&HelloText=Hola

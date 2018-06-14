@@ -1,0 +1,7 @@
+127.0.0.1 - - [14/Jun/2018:09:01:07 +0200] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [14/Jun/2018:09:01:08 +0200] "GET /crm_app/ HTTP/1.1" 200 1290
+0:0:0:0:0:0:0:1 - - [14/Jun/2018:09:01:08 +0200] "GET /crm_app/style/styles.css HTTP/1.1" 200 1268
+0:0:0:0:0:0:0:1 - - [14/Jun/2018:09:01:12 +0200] "GET /crm_app/crm-app?service=CreateCustomerService&view=CreateCustomerView&firstnameText=eT&nameText= HTTP/1.1" 200 289
+0:0:0:0:0:0:0:1 - - [14/Jun/2018:09:01:12 +0200] "GET /crm_app/index.html HTTP/1.1" 200 1290
+0:0:0:0:0:0:0:1 - - [14/Jun/2018:09:01:18 +0200] "GET /crm_app/crm-app?service=CreateCustomerService&view=CreateCustomerView&firstnameText=eT&nameText=rOULET HTTP/1.1" 200 327
+0:0:0:0:0:0:0:1 - - [14/Jun/2018:09:01:20 +0200] "GET /crm_app/index.html HTTP/1.1" 304 -

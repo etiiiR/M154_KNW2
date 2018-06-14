@@ -1,0 +1,14 @@
+127.0.0.1 - - [08/Jun/2018:08:25:58 +0200] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [08/Jun/2018:08:26:07 +0200] "GET /crm_app/crm-app?service=CreateCustomerService&view=CreateCustomerView&firstnameText=Etienne&nameText=Roulet HTTP/1.1" 200 332
+0:0:0:0:0:0:0:1 - - [08/Jun/2018:08:26:10 +0200] "GET /crm_app/index.html HTTP/1.1" 200 1290
+0:0:0:0:0:0:0:1 - - [08/Jun/2018:08:29:52 +0200] "GET /crm_app/crm-app?service=ReadCustomerService&view=ReadCustomerView&customerId= HTTP/1.1" 500 1847
+0:0:0:0:0:0:0:1 - - [08/Jun/2018:08:29:57 +0200] "GET /crm_app/crm-app?service=ReadCustomerService&view=ReadCustomerView&customerId=1 HTTP/1.1" 200 298
+0:0:0:0:0:0:0:1 - - [08/Jun/2018:08:29:58 +0200] "GET /crm_app/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [08/Jun/2018:08:30:01 +0200] "GET /crm_app/crm-app?service=ReadCustomerService&view=ReadCustomerView&customerId=0 HTTP/1.1" 200 357
+0:0:0:0:0:0:0:1 - - [08/Jun/2018:08:30:04 +0200] "GET /crm_app/index.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [08/Jun/2018:08:40:57 +0200] "GET /crm_app/crm-app?service=ReadCustomerService&view=ReadCustomerView&customerId=0 HTTP/1.1" 200 357
+0:0:0:0:0:0:0:1 - - [08/Jun/2018:08:40:57 +0200] "GET /crm_app/style/styles.css HTTP/1.1" 200 1268
+0:0:0:0:0:0:0:1 - - [08/Jun/2018:08:40:57 +0200] "GET /crm_app/index.html HTTP/1.1" 200 1290
+0:0:0:0:0:0:0:1 - - [08/Jun/2018:08:40:57 +0200] "GET /crm_app/crm-app?service=ReadCustomerService&view=ReadCustomerView&customerId=1 HTTP/1.1" 200 298
+0:0:0:0:0:0:0:1 - - [08/Jun/2018:08:40:58 +0200] "GET /crm_app/crm-app?service=CreateCustomerService&view=CreateCustomerView&firstnameText=Etienne&nameText=Roulet HTTP/1.1" 200 332
+0:0:0:0:0:0:0:1 - - [08/Jun/2018:08:40:58 +0200] "GET /crm_app/ HTTP/1.1" 200 1290

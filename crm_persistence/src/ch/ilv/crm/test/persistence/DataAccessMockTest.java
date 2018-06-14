@@ -5,6 +5,7 @@
 
 package ch.ilv.crm.test.persistence;
 
+
 import static org.junit.Assert.*;
 
 import org.junit.After;
