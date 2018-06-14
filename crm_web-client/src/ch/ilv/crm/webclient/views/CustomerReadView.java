@@ -1,8 +1,10 @@
 /**
- * This CustomerReadView implements a view by using Giniality´s WebApp-Framework.
+ * This CustomerReadView implements a view by using Ginialityï¿½s WebApp-Framework.
  */
 
 package ch.ilv.crm.webclient.views;
+
+
 
 import com.giniality.education.webappframework.view.AbstractHtmlView;
 
